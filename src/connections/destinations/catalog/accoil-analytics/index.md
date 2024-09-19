@@ -2,6 +2,8 @@
 title: Accoil Destination
 hide-boilerplate: true
 hide-dossier: true
+beta: true
+private: true
 ---
 
 {% include content/plan-grid.md name="actions" %}
